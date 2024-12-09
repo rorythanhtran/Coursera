@@ -4,7 +4,7 @@ This project explores how poker skill, hand quality, and bet limits affect a pla
 ## Dataset 
 Source: G. Meyer, M. von Meduna, T. Brosowski, T. Hayer (2012). "Is poker
 a Game of Skill or Chance? A Quasi-Experimental Study," Journal of Gambling 
-Studies, Online First DOI 10.1007/s10899-012-9327-8
+Studies, Online First DOI 10.1007/s10899-012-9327-8.
 The dataset consists of 25 individuals in each of 12 different experimental conditions, resulting in a total of 300 observations. The factors being analyzed are:
 - Skill
 - Hand
